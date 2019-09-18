@@ -1,17 +1,19 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/vilaboim/vueggernaut)
-![David](https://img.shields.io/david/vilaboim/vueggernaut)
-![GitHub](https://img.shields.io/github/license/vilaboim/vueggernaut)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/vilaboim/vueverine)
+![David](https://img.shields.io/david/vilaboim/vueverine)
+![GitHub](https://img.shields.io/github/license/vilaboim/vueverine)
 
-# Vueggernaut
+# Vueverine
 
-## An unstoppable Vue boilerplate
+*This awesome name was created by the great [Stanley](https://github.com/stanleygomes)*.
 
-The main goal of **Vueggernaut** is to set patterns to be followed on Vue projects. *Inspired by [Juggernaut](https://github.com/SoftboxLab/juggernaut)*.
+## A regenerative Vue boilerplate
+
+The main goal of **Vueverine** is to set patterns to be followed on Vue projects. *It was inspired by [Juggernaut](https://github.com/SoftboxLab/juggernaut)*.
 
 <p align="center" style="margin: 0 auto 40px; height: 200px">
-	<img src="src/assets/images/vueggernaut.gif" />
+	<img src="src/assets/images/vueverine.gif" />
   <br />
-  Gif by <a href="https://dribbble.com/Reuno" target="_blank">Reuno</a>
+  Gif by <a href="https://dribbble.com/drawsgood" target="_blank">Michael B. Myers Jr.</a>
 </p>
 
 ## Startup
@@ -20,7 +22,7 @@ Step by step to get this up and running
 
 ### Clone repo and go to project folder
 
-> git clone https://github.com/vilaboim/vueggernaut.git && cd vueggernaut
+> git clone https://github.com/vilaboim/vueverine.git && cd vueverine
 
 ### Install dependencies
 
