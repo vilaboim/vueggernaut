@@ -14,7 +14,7 @@ export default {
   <div class="home">
     <img
       alt="Vue logo"
-      src="../../assets/logo.png"
+      src="../../assets/images/logo.png"
     />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
