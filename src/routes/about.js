@@ -1,5 +1,5 @@
 export default {
   path: '/about',
   name: 'about',
-  component: () => import(/* webpackChunkName: "about" */ '../containers/About')
+  component: () => import(/* webpackChunkName: "about" */ '../views/About')
 }

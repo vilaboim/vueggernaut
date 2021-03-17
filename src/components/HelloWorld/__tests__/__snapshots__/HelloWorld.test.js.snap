@@ -4,17 +4,11 @@ exports[`HelloWorld.vue renders 1`] = `
 <div
   class="hello"
 >
-  <h1>
-    
-  </h1>
-   
+  <h1 />
   <p>
-    
-    For a guide and recipes on how to configure / customize this project,
+     For a guide and recipes on how to configure / customize this project,
     <br />
-    
-    check out the
-    
+     check out the 
     <a
       href="https://cli.vuejs.org"
       rel="noopener"
@@ -22,14 +16,11 @@ exports[`HelloWorld.vue renders 1`] = `
     >
       vue-cli documentation
     </a>
-    .
-  
+    . 
   </p>
-   
   <h3>
     Installed CLI Plugins
   </h3>
-   
   <ul>
     <li>
       <a
@@ -40,7 +31,6 @@ exports[`HelloWorld.vue renders 1`] = `
         babel
       </a>
     </li>
-     
     <li>
       <a
         href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa"
@@ -50,7 +40,6 @@ exports[`HelloWorld.vue renders 1`] = `
         pwa
       </a>
     </li>
-     
     <li>
       <a
         href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
@@ -60,7 +49,6 @@ exports[`HelloWorld.vue renders 1`] = `
         eslint
       </a>
     </li>
-     
     <li>
       <a
         href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-unit-jest"
@@ -71,11 +59,9 @@ exports[`HelloWorld.vue renders 1`] = `
       </a>
     </li>
   </ul>
-   
   <h3>
     Essential Links
   </h3>
-   
   <ul>
     <li>
       <a
@@ -86,7 +72,6 @@ exports[`HelloWorld.vue renders 1`] = `
         Core Docs
       </a>
     </li>
-     
     <li>
       <a
         href="https://forum.vuejs.org"
@@ -96,7 +81,6 @@ exports[`HelloWorld.vue renders 1`] = `
         Forum
       </a>
     </li>
-     
     <li>
       <a
         href="https://chat.vuejs.org"
@@ -106,7 +90,6 @@ exports[`HelloWorld.vue renders 1`] = `
         Community Chat
       </a>
     </li>
-     
     <li>
       <a
         href="https://twitter.com/vuejs"
@@ -116,7 +99,6 @@ exports[`HelloWorld.vue renders 1`] = `
         Twitter
       </a>
     </li>
-     
     <li>
       <a
         href="https://news.vuejs.org"
@@ -127,11 +109,9 @@ exports[`HelloWorld.vue renders 1`] = `
       </a>
     </li>
   </ul>
-   
   <h3>
     Ecosystem
   </h3>
-   
   <ul>
     <li>
       <a
@@ -142,7 +122,6 @@ exports[`HelloWorld.vue renders 1`] = `
         vue-router
       </a>
     </li>
-     
     <li>
       <a
         href="https://vuex.vuejs.org"
@@ -152,7 +131,6 @@ exports[`HelloWorld.vue renders 1`] = `
         vuex
       </a>
     </li>
-     
     <li>
       <a
         href="https://github.com/vuejs/vue-devtools#vue-devtools"
@@ -162,7 +140,6 @@ exports[`HelloWorld.vue renders 1`] = `
         vue-devtools
       </a>
     </li>
-     
     <li>
       <a
         href="https://vue-loader.vuejs.org"
@@ -172,7 +149,6 @@ exports[`HelloWorld.vue renders 1`] = `
         vue-loader
       </a>
     </li>
-     
     <li>
       <a
         href="https://github.com/vuejs/awesome-vue"
