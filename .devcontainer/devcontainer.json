@@ -1,0 +1,46 @@
+{
+	"name": "Vueverine",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": "..",
+		"args": { "VARIANT": "14" }
+	},
+	"settings": {
+		"eslint.validate": [
+			"vue",
+			"html",
+			"javascript"
+		],
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true,
+			"source.fixAll.stylelint": false
+		},
+		"[html]": {
+			"editor.codeActionsOnSave": {
+				"source.fixAll.eslint": false
+			}
+		},
+		"emmet.includeLanguages": {
+			"vue": "html",
+			"vue-html": "html",
+			"markdown": "html"
+		},
+		"jest.runAllTestsFirst": false,
+		"jest.autoEnable": false,
+		"search.exclude": {
+			"**/node_modules": true
+		},
+		"vetur.validation.template": false
+	},
+	"extensions": [
+		"dbaeumer.vscode-eslint",
+		"octref.vetur",
+		"sdras.vue-vscode-snippets",
+		"dariofuzinato.vue-peek",
+		"sysoev.language-stylus",
+		"orta.vscode-jest"
+	],
+	"forwardPorts": [8080],
+	"postCreateCommand": "yarn",
+	"remoteUser": "node"
+}
