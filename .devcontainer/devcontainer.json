@@ -35,12 +35,8 @@
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"octref.vetur",
-		"sdras.vue-vscode-snippets",
-		"dariofuzinato.vue-peek",
-		"sysoev.language-stylus",
-		"orta.vscode-jest"
+		"orta.vscode-jest",
+		"sysoev.language-stylus"
 	],
-	"forwardPorts": [8080],
-	"postCreateCommand": "yarn",
 	"remoteUser": "node"
 }
